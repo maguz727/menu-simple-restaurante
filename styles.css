@@ -1,6 +1,6 @@
 body {
     background-image: url(./img/fondo-hamburguesa.jpg);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
