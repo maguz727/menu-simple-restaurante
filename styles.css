@@ -1,0 +1,92 @@
+body {
+    background-image: url(./img/fondo-hamburguesa.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+.container {
+    width: 80%;
+    background-color: rgb(222, 184, 135, 0.9);
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.75);
+}
+
+.title, .title-menu, .sub-title, .zone {
+    text-align: center;
+}
+
+.title {
+    margin: 0;
+    font-size: 40px;
+}
+
+.zone {
+    margin: 0;
+    font-style: italic;
+}
+
+.title-menu {
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+.sub-title {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.icon {
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+
+.item p {
+    display: inline-block;
+    margin: 5px 0;
+
+}
+
+.item-name {
+    width: 75%;
+    text-align: left;
+}
+
+.item-price {
+    width: 25%;
+    text-align: right;
+}
+
+hr {
+    height: 4px;
+    background-color: brown;
+    border: 0;
+    margin-top: 20px;
+}
+
+/* FOOTER */
+.footer {
+    padding: 5px;
+}
+
+.footer p {
+    text-align: center;
+    margin: 5px
+}
+
+.footer a {
+    color: black;
+}
+
+.footer a:hover {
+    color: brown;
+}
+
+
